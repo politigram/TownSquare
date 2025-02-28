@@ -1,0 +1,115 @@
+[
+    {
+      "name": "Donald J. Trump",
+      "office": "President of the United States",
+      "party": "Republican",
+      "email": "",
+      "phone": "(202) 456-1414",
+      "contact_form": "https://www.whitehouse.gov/contact/"
+    },
+    {
+      "name": "JD Vance",
+      "office": "U.S. Senator, Ohio",
+      "party": "Republican",
+      "email": "",
+      "phone": "(202) 224-3353",
+      "contact_form": "https://www.vance.senate.gov/contact"
+    },
+    {
+      "name": "Edward J. Markey",
+      "office": "U.S. Senator, Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(202) 224-2742",
+      "contact_form": "https://www.markey.senate.gov/contact"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "office": "U.S. Senator, Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(202) 224-4543",
+      "contact_form": "https://www.warren.senate.gov/contact"
+    },
+    {
+      "name": "Jake Auchincloss",
+      "office": "U.S. Representative, Massachusetts 4th District",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(202) 225-5931",
+      "contact_form": "https://auchincloss.house.gov/contact"
+    },
+    {
+      "name": "Maura Healey",
+      "office": "Governor of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 725-4005",
+      "contact_form": "https://www.mass.gov/forms/email-the-governor"
+    },
+    {
+      "name": "Kim Driscoll",
+      "office": "Lieutenant Governor of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 725-4005",
+      "contact_form": "https://www.mass.gov/forms/email-the-governor"
+    },
+    {
+      "name": "William Francis Galvin",
+      "office": "Secretary of the Commonwealth of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 727-7030",
+      "contact_form": "https://www.sec.state.ma.us/contact"
+    },
+    {
+      "name": "Diana DiZoglio",
+      "office": "Auditor of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 727-2075",
+      "contact_form": "https://www.mass.gov/orgs/auditor-of-the-commonwealth"
+    },
+    {
+      "name": "Andrea Campbell",
+      "office": "Attorney General of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 727-2200",
+      "contact_form": "https://www.mass.gov/forms/contact-the-attorney-general"
+    },
+    {
+      "name": "Deborah B. Goldberg",
+      "office": "Treasurer and Receiver General of Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 367-6900",
+      "contact_form": "https://www.mass.gov/orgs/office-of-the-treasurer-and-receiver-general"
+    },
+    {
+      "name": "Peter J. Koutoujian",
+      "office": "Sheriff of Middlesex County, Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(978) 667-1711",
+      "contact_form": "https://www.middlesexsheriff.org/contact-us"
+    },
+    {
+      "name": "Tara E. DeCristofaro",
+      "office": "Register of Probate, Middlesex County, Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 768-5800",
+      "contact_form": "https://www.mass.gov/locations/middlesex-probate-and-family-court"
+    },
+    {
+      "name": "Michael A. Sullivan",
+      "office": "Clerk of Courts, Middlesex County, Massachusetts",
+      "party": "Democratic",
+      "email": "",
+      "phone": "(617) 494-4010",
+      "contact_form": "https://www.mass.gov/orgs/middlesex-county-clerk-of-courts"
+    }
+  ]
+  
